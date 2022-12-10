@@ -7,7 +7,7 @@
 **_Version: 1.0_**
 
 ## Important Notes
-1. **This script was developed as part of a Linux course, it is not meant for production!**
+1. **This script was developed as part of a Python course, it is not meant for production!**
 
 ## Decription
 script that reverse lines in given file.
@@ -17,9 +17,12 @@ script that reverse lines in given file.
 reverse_lines.py [-h] [--file FILE] [--limit LIMIT] [--version]
 
 **Example:**
+
 python .\reverse_lines.py -f names.txt -l 5
 
 **options:**
+
+
   -h, --help            show this help message and exit
   --file FILE, -f FILE  File to read
   --limit LIMIT, -l LIMIT
