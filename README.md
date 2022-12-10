@@ -23,11 +23,12 @@ python .\reverse_lines.py -f names.txt -l 5
 **options:**
 
 
-  -h, --help            show this help message and exit
-  --file FILE, -f FILE  File to read
-  --limit LIMIT, -l LIMIT
-                        Limit the number of lines to read
-  --version, -v         show program's version number and exit
+  -h, --help               show this help message and exit
+
+  --file FILE, -f FILE     File to read
+
+  --limit LIMIT, -l LIMIT  Limit the number of lines to read
+  --version, -v            show program's version number and exit
 
   example:
   python .\reverse_lines.py -f names.txt -l 5
